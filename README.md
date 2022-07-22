@@ -9,8 +9,12 @@
 
 ### Connect with me:
 
-<a href = "https://www.linkedin.com/"><img align = "left" width = "30px" height = "30px" src ="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png"/></a> 
+<a href = "https://www.linkedin.com/"><img align = "left" width = "30px" height = "30px" src ="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png"/></a>
+<a href = "https://www.twitter.com/"><img align = "left" width = "30px" height = "30px" src ="https://user-images.githubusercontent.com/97559428/180426804-a594c867-2e4a-4343-be5e-95fda672d5c4.png"/></a> 
+<a href = "https://www.instagram.com/"><img align = "left" width = "30px" height = "30px" src ="https://user-images.githubusercontent.com/97559428/180426788-9f0504eb-0f15-4023-bfc3-83dd5d97771b.png"/></a> 
+
 <br>
+
 
 
 ### Languages and Tools:
