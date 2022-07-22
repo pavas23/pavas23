@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<a href = "https://www.linkedin.com/feed/"><img align = "left" width = "75px" height = "22px" src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/"><img align = "left" width = "75px" height = "22px" src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 
 
