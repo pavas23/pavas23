@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavas Garg 👋
 
 <ul>
-  <li> 💬 Ask me about anything...          </li>
+  <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!      </li>
   <li> 📫 How to reach me : <a href = "mailto:pavasgarg2003@gmail.com">pavasgarg2003@gmail.com</a> </li>
 <!--   <li> 🚀 I'm currently working on                </li> -->
 </ul>
