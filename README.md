@@ -24,9 +24,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-
-
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
