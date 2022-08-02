@@ -27,6 +27,7 @@
 <img src="https://user-images.githubusercontent.com/97559428/182455184-6a0dd7bb-f318-4896-a78a-d1da9309026b.svg"  title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/97559428/182457493-2083b604-d271-4b8e-bbf1-0539bc73c538.svg"  title="express" alt="express" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/97559428/182455179-3bba1e1e-97f7-43ea-af1c-e71032c5e8c2.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/97559428/182458071-253339be-6b14-4381-b364-e684636d37a8.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 
 
