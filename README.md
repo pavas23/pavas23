@@ -3,8 +3,10 @@
 <ul>
   <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
   <li> 📫 How to reach me : <a href = "mailto:pavasgarg2003@gmail.com">pavasgarg2003@gmail.com</a> </li>
-  <li> 🚀 <a href = "https://pavas23.github.io/pavasgarg">Personal Website</a></li>
+  <li>🌱 I’m currently learning Web Development</li>
+  <li> 🚀 <a href = "https://pavas23.github.io/pavasgarg" target="_blank">Personal Website</a></li>
 </ul>
+
 
 
 ### Connect with me:
@@ -14,6 +16,7 @@
 <a href = "https://www.instagram.com/"><img align = "left" width = "30px" height = "30px" src ="https://user-images.githubusercontent.com/97559428/180426788-9f0504eb-0f15-4023-bfc3-83dd5d97771b.png"/></a> 
 
 <br>
+
 
 ### Languages and Tools:
 <img src="https://user-images.githubusercontent.com/97559428/182453721-489a3c5e-37b2-438a-b101-4a626abb57ed.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -29,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/97559428/182455179-3bba1e1e-97f7-43ea-af1c-e71032c5e8c2.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/97559428/182458071-253339be-6b14-4381-b364-e684636d37a8.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
-
+<hr>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
