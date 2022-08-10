@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/97559428/182455179-3bba1e1e-97f7-43ea-af1c-e71032c5e8c2.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/97559428/182458071-253339be-6b14-4381-b364-e684636d37a8.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
-<hr>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
