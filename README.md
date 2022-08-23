@@ -7,7 +7,9 @@
   <li> 🚀 <a href = "https://pavas23.github.io/pavasgarg" target="_blank">Personal Website</a></li>
 </ul>
 
+<br>
 
+![](https://komarev.com/ghpvc/?username=pavas23)
 
 ### Connect with me:
 
