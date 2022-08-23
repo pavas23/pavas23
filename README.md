@@ -1,4 +1,4 @@
-## Hi there, I'm Pavas Garg 👋
+## Hi there, I'm Pavas Garg 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=pavas23)
 
 <ul>
   <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
@@ -6,10 +6,6 @@
   <li>🌱 I’m currently learning Web Development</li>
   <li> 🚀 <a href = "https://pavas23.github.io/pavasgarg" target="_blank">Personal Website</a></li>
 </ul>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=pavas23)
 
 ### Connect with me:
 
