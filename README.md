@@ -1,4 +1,4 @@
-## Hi there, I'm Pavas Garg 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=pavas23)
+## Hi there, I'm Pavas Garg 👋 &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=pavas23)
 
 <ul>
   <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
