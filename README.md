@@ -31,6 +31,6 @@
 <img src="https://user-images.githubusercontent.com/97559428/182458071-253339be-6b14-4381-b364-e684636d37a8.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
 
-
+ -->
