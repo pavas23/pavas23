@@ -34,3 +34,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
 
  -->
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavas23&layout=compact&theme=github_dark)](https://github.com/pavas23/github-readme-stats)
