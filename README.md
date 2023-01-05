@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<a href = "https://www.linkedin.com/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/></a>
+<a href = "https://www.linkedin.com/in/pavas-garg-606535223/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/></a>
 <a href = "https://www.twitter.com/"><img align = "left" width = "30px" height = "30px" src ="https://user-images.githubusercontent.com/97559428/180426804-a594c867-2e4a-4343-be5e-95fda672d5c4.png"/></a> 
 <a href = "https://www.instagram.com/"><img align = "left" width = "30px" height = "30px" src ="https://user-images.githubusercontent.com/97559428/180426788-9f0504eb-0f15-4023-bfc3-83dd5d97771b.png"/></a> 
 
